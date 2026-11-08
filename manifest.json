@@ -1,0 +1,14 @@
+{
+  "name": "银盾智护",
+  "short_name": "银盾智护",
+  "description": "可疑短信、电话话术，贴进来问一问就知道。本地研判、不上传原文。",
+  "start_url": "./?sharecode=RALWJR3RHK",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1F4E79",
+  "theme_color": "#1F4E79",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
